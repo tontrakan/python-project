@@ -10,4 +10,4 @@ def speak(text):
     tts.save(filename) # to save files name
     playsound.playsound(filename) # execute the sound that you need to play following text data input
 
-speak("test play sound")
+speak("test play sound")  # function to play sound 
